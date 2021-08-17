@@ -49,14 +49,14 @@ $(document).ready(function(){
 
     // typing animation script
     var typed = new Typed(".typing",{
-        strings: ["Software Developer", "System Integrator"],
+        strings: ["Software Engineer", "System Integrator"],
         typeSpeed: 100,
         backSpeed: 60,
         loop:true
 
     });
     var typed = new Typed(".typing2",{
-        strings: ["Software Developer", "System Integrator"],
+        strings: ["Software Engineer", "System Integrator"],
         typeSpeed: 100,
         backSpeed: 60,
         loop:true
